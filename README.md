@@ -8,7 +8,7 @@ Hello, and thanks for interviewing with Gnarled Helix! This 1-2 hour coding chal
 - UX sensibilities.
 
 ## Format
-Screen sharing a local code editor and browser of the candidate’s choice. The candidate may freely use google and other resources during the challenge, with the exception of ChatGPT and similar tools, but including copilot if they already have it set up.
+Screen sharing a local code editor and browser of the candidate’s choice, or completely async. The candidate may freely use google and other resources during the challenge, with the exception of ChatGPT and similar tools, but including copilot if they already have it set up.
 
 Candidates are encouraged to leverage the following libraries from NPM:
 - React
