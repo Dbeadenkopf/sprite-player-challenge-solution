@@ -1,28 +1,59 @@
-# Gnarled Helix Coding Challenge
+# Gnarled Helix Coding Challenge – Sprite Demo
 
-Hello, and thanks for interviewing with Gnarled Helix! This 1-2 hour coding challenge is intended to assess your blend of web and game development skills.
+This repository contains my implementation of the Gnarled Helix coding challenge, designed to showcase web and game development skills using React and Three.js.
 
-## Skills this challenge assesses:
-- React and Three library usage.
-- Adaptability to new codebases.
-- UX sensibilities.
+The challenge involved creating a small interactive sprite demo from scratch, with the player character responding to keyboard input and animating on the screen.
 
-## Format
-Screen sharing a local code editor and browser of the candidate’s choice, or completely async. The candidate may freely use google and other resources during the challenge, with the exception of ChatGPT and similar tools, but including copilot if they already have it set up.
+# Skills Demonstrated
 
-Candidates are encouraged to leverage the following libraries from NPM:
-- React
-- ThreeJS
-- CRA or CRA + Craco
-- Either three-asperite or protosprite-three.
+React and Three.js integration.
 
-## Goal
-From scratch, use CRA to scaffold a React application that features the player character sprite moving around the screen in response to keyboard input.
+Adapting to a new codebase and problem domain.
 
-Assessment Criteria
-- [ ] React app, with ThreeJS-based viewport, is up and running, and rendering a scene.
-- [ ] The provided (or really, any) character sprite is rendered on screen.
-- [ ] The character sprite is animated.
-- [ ] The character sprite runs back and forth in response to keyboard input.
-- [ ] Stretch goal: the player can jump.
-- [ ] Stretch goal: the viewport is dynamically resized as the page responds to changing window dimensions.
+Basic UX and responsive design considerations.
+
+Handling sprite animations and keyboard input.
+
+# Features Implemented
+
+React application with a Three.js-based viewport rendering a scene.
+
+Player character sprite rendered and animated on screen.
+
+Character moves left and right in response to keyboard input.
+
+Stretch Goals Completed:
+
+Player can jump.
+
+Viewport dynamically resizes with the window.
+
+# Libraries Used
+
+React
+
+Three.js
+
+CRA (Create React App)
+
+three-asperite / protosprite-three (for sprite rendering)
+
+# How to Run
+
+Clone this repository.
+
+Install dependencies:
+
+npm install
+npm install three
+npm install @mui/material @emotion/react @emotion/styled
+
+
+
+Start the development server:
+
+npm start
+
+
+Open http://localhost:3000
+ to view the demo.
