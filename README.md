@@ -1,6 +1,6 @@
-# Gnarled Helix Coding Challenge – Sprite Demo
+# Sprite Demo
 
-This repository contains my implementation of the Gnarled Helix coding challenge, designed to showcase web and game development skills using React and Three.js.
+This repository contains my implementation of the Sprite coding challenge, designed to showcase web and game development skills using React and Three.js.
 
 The challenge involved creating a small interactive sprite demo from scratch, with the player character responding to keyboard input and animating on the screen.
 
