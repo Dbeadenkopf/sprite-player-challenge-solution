@@ -1,15 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import GameScene from './components/GameScene.jsx';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <h2>Gnarled Helix Coding Challenge</h2>
+        <GameScene/>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          <strong>Training Room</strong>
         </p>
       </header>
     </div>
