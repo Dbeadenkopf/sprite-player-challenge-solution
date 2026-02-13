@@ -26,7 +26,6 @@ const jumpFrames = Object.values(playerData.frames)
   .map(f => f.frame); 
 
 // running frames (from 18 to 25)
-// jumping frame (from 26 to 31)
 const runFrames = Object.values(playerData.frames)
 .slice(playerData.meta.frameTags[2].from, playerData.meta.frameTags[2].to + 1)
 .map(f => f.frame); 
